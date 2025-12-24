@@ -1,5 +1,5 @@
 # HMEQ Loan Default Analysis  
-**SQL | Power BI | Python | Streamlit | SHAP**
+**SQL | Excel | Python | Streamlit | SHAP**
 
 ---
 
@@ -41,7 +41,7 @@ The dataset contains **missing values and imbalanced classes**, making it realis
 
 ## Analytical Approach
 
-### Dashboard (Power BI)
+### Dashboard (Excel)
 - Analyzed overall default rate and portfolio composition  
 - Identified risk distribution by loan purpose, DTI bands, delinquency, and job category  
 
@@ -87,7 +87,7 @@ Download excel: https://docs.google.com/spreadsheets/d/1ILUQMn81NASUBZdbUJ11WxBr
 ## Tools Used
 - **SQL Server**  
 - **Python:** Pandas, Scikit-learn, SHAP  
-- **Power BI**  
+- **Excel**  
 - **Streamlit**  
 
 ---
@@ -99,4 +99,5 @@ This project demonstrates how **data analytics, explainable machine learning, an
 
 ## Author
 **Nandana V Shamjith**  
-Data Analytics & Business Intelligence Portfolio Project
+Aspiring Data Analyst | SQL • Python • Ml• Excel
+
