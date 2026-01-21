@@ -72,6 +72,7 @@ The dataset contains **missing values and imbalanced classes**, making it realis
 
 ## Dashboard Preview
 Download excel(pdf): https://drive.google.com/file/d/1gI9EAXuciJmXVnRqhjhJiAb6X1-9Fc_k/view?usp=sharing
+
 Screenshot: https://drive.google.com/file/d/16Z5SFVxihULdN9UJ2UjqGcZseM6OZWU5/view?usp=sharing
 
 ---
@@ -101,5 +102,6 @@ This project demonstrates how **data analytics, explainable machine learning, an
 ## Author
 **Nandana V Shamjith**  
 Aspiring Data Analyst | SQL • Python • Ml• Excel
+
 
 
